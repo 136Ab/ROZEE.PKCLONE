@@ -1,0 +1,143 @@
+[26-Aug-2025 13:46:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'company' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php:19
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php(19): mysqli->query('INSERT INTO job...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php on line 19
+[26-Aug-2025 13:48:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'company' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php:26
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php(26): mysqli->query('INSERT INTO job...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php on line 26
+[26-Aug-2025 13:48:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'company' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php:26
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php(26): mysqli->query('INSERT INTO job...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php on line 26
+[26-Aug-2025 13:48:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'company' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php:26
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php(26): mysqli->query('INSERT INTO job...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php on line 26
+[26-Aug-2025 14:15:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'company' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php:26
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php(26): mysqli->query('INSERT INTO job...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php on line 26
+[27-Aug-2025 13:09:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'company' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php:26
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php(26): mysqli->query('INSERT INTO job...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php on line 26
+[27-Aug-2025 13:27:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'company' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php:26
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php(26): mysqli->query('INSERT INTO job...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/post_job.php on line 26
+[28-Aug-2025 14:49:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbf3mtm0kr2s3p.users' doesn't exist in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php:11
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php(11): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php on line 11
+[29-Aug-2025 12:45:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'dbf3mtm0kr2s3p.users' doesn't exist in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php:11
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php(11): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php on line 11
+[29-Aug-2025 12:49:46 UTC] PHP Warning:  Undefined array key "skills" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 43
+[29-Aug-2025 12:50:18 UTC] PHP Warning:  move_uploaded_file(uploads/Screenshot 2025-07-25 184557.png): Failed to open stream: No such file or directory in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 17
+[29-Aug-2025 12:50:18 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/php9yl2ef&quot; to &quot;uploads/Screenshot 2025-07-25 184557.png&quot; in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 17
+[29-Aug-2025 12:50:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'skills' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php:20
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php(20): mysqli->query('UPDATE users SE...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 20
+[29-Aug-2025 12:50:20 UTC] PHP Warning:  Undefined array key "skills" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 43
+[29-Aug-2025 12:53:52 UTC] PHP Warning:  move_uploaded_file(uploads/Screenshot 2025-07-25 184359.png): Failed to open stream: No such file or directory in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/apply_job.php on line 17
+[29-Aug-2025 12:53:52 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;/tmp/phpTDh2z4&quot; to &quot;uploads/Screenshot 2025-07-25 184359.png&quot; in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/apply_job.php on line 17
+[29-Aug-2025 13:18:41 UTC] PHP Warning:  Undefined array key "skills" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 43
+[29-Aug-2025 13:18:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'skills' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php:20
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php(20): mysqli->query('UPDATE users SE...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 20
+[29-Aug-2025 13:18:56 UTC] PHP Warning:  Undefined array key "skills" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 43
+[29-Aug-2025 13:19:25 UTC] PHP Warning:  Undefined array key "skills" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 43
+[29-Aug-2025 13:19:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'skills' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php:20
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php(20): mysqli->query('UPDATE users SE...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 20
+[29-Aug-2025 13:21:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'skills' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php:20
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php(20): mysqli->query('UPDATE users SE...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 20
+[29-Aug-2025 13:21:36 UTC] PHP Warning:  Undefined array key "skills" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 43
+[29-Aug-2025 13:21:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'skills' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php:20
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php(20): mysqli->query('UPDATE users SE...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 20
+[29-Aug-2025 13:21:44 UTC] PHP Warning:  Undefined array key "skills" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 43
+[29-Aug-2025 13:21:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'skills' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php:20
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php(20): mysqli->query('UPDATE users SE...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 20
+[29-Aug-2025 13:21:50 UTC] PHP Warning:  Undefined array key "skills" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 43
+[29-Aug-2025 13:22:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'skills' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php:20
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php(20): mysqli->query('UPDATE users SE...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 20
+[29-Aug-2025 13:25:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 37
+[29-Aug-2025 13:25:08 UTC] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 39
+[29-Aug-2025 13:25:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 41
+[29-Aug-2025 13:26:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php:11
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php(11): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php on line 11
+[29-Aug-2025 13:26:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php:11
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php(11): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php on line 11
+[29-Aug-2025 13:29:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'role' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php:11
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php(11): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php on line 11
+[29-Aug-2025 13:29:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'role' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php:11
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php(11): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php on line 11
+[29-Aug-2025 13:29:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'role' in 'field list' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php:11
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php(11): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php on line 11
+[29-Aug-2025 13:31:26 UTC] PHP Warning:  Undefined array key "fullname" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php on line 5
+[29-Aug-2025 13:31:26 UTC] PHP Warning:  Undefined array key "user_type" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php on line 8
+[29-Aug-2025 13:31:52 UTC] PHP Warning:  Undefined array key "fullname" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php on line 5
+[29-Aug-2025 13:31:52 UTC] PHP Warning:  Undefined array key "user_type" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php on line 8
+[29-Aug-2025 13:37:30 UTC] PHP Warning:  Undefined array key "role" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/login.php on line 15
+[29-Aug-2025 13:37:30 UTC] PHP Warning:  Undefined array key "name" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 37
+[29-Aug-2025 13:37:30 UTC] PHP Warning:  Undefined array key "role" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 39
+[29-Aug-2025 13:37:30 UTC] PHP Deprecated:  ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 39
+[29-Aug-2025 13:37:30 UTC] PHP Warning:  Undefined array key "role" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/profile.php on line 41
+[29-Aug-2025 13:40:49 UTC] PHP Warning:  Undefined array key "role" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/login.php on line 15
+[29-Aug-2025 13:40:59 UTC] PHP Warning:  Undefined array key "role" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/login.php on line 15
+[29-Aug-2025 13:41:09 UTC] PHP Warning:  Undefined array key "role" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/login.php on line 15
+[29-Aug-2025 13:41:24 UTC] PHP Warning:  Undefined array key "role" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/login.php on line 15
+[29-Aug-2025 13:41:34 UTC] PHP Warning:  Undefined array key "role" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/login.php on line 15
+[29-Aug-2025 13:41:41 UTC] PHP Warning:  Undefined array key "role" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/login.php on line 15
+[29-Aug-2025 13:41:54 UTC] PHP Warning:  Undefined array key "role" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/login.php on line 15
+[29-Aug-2025 13:42:19 UTC] PHP Warning:  Undefined array key "role" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/login.php on line 15
+[29-Aug-2025 13:42:37 UTC] PHP Warning:  Undefined array key "role" in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/login.php on line 15
+[29-Aug-2025 13:44:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Ahmadxz@gmail.com' for key 'users.email' in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php:21
+Stack trace:
+#0 /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php(21): mysqli->query('INSERT INTO use...')
+#1 {main}
+  thrown in /home/customer/www/rsoa17.millioncoders.net/public_html/ROZEE.PKCLONE/signup.php on line 21
